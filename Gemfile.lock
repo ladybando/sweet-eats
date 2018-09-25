@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    makeup_maker (0.1.0)
+    sweet_eats (0.1.0)
 
 GEM
   remote: https://rubygems.org/
